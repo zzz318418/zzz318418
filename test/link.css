@@ -1,0 +1,35 @@
+body{
+    background-color: cornsilk;
+    font-size: 30px;
+}
+a:link{
+    color: aqua;
+    text-decoration: none;
+    background-color: black;
+    padding:20px;
+    box-shadow: 5px  5px  5px rgb(97, 97, 97);
+}
+a:visited{
+    color: rgb(217, 255, 0);
+}
+a:hover{
+    color: rgb(236, 18, 171);
+    background-color: blue;
+    transition: 1s;
+
+}
+a:active{
+    color: rgb(62, 236, 18);
+}
+h1{
+    color: blueviolet;
+}
+
+img {  
+    max-height: 38%;  
+    max-width: 38%; 
+    width: auto;
+    height: auto;   
+    margin: auto;
+}
+
